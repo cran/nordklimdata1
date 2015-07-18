@@ -1,9 +1,9 @@
-84aae1c4b444a217137a136413a1a62e *DESCRIPTION
+52c0d5b630701e4baffc22ce349979ce *DESCRIPTION
 8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
-d85fae73cc408a66c7716b79a117fba7 *data/NordklimData.rda
-2ec46fd6e1f654c60777bafd92e52090 *data/NordklimStationCatalogue.rda
+727a971c2ea781977038c9e9d6014a56 *data/NordklimData.rda
+ed7f655c5c9b7a809130ecbd0fa1a29d *data/NordklimStationCatalogue.rda
 57b67090ed47922324439491a3ed1536 *data/datalist
-fad74d9bfb23388b6f7af9e2f4507d1c *inst/CITATION
-9b57b343e3e100ecdab8b05999e7cad0 *man/NordklimData.Rd
-f13757493dcf54003e1dfbcfd0daf652 *man/NordklimStationCatalogue.Rd
-35dfe88b11ddea31adbfadbe236860e5 *man/nordklimdata1-package.Rd
+83c920e0c01d442363fbf6fa86cf5c10 *inst/CITATION
+21539429d8d4de55d853696822767017 *man/NordklimData.Rd
+e8fab975e11038d4531c795b9a655eda *man/NordklimStationCatalogue.Rd
+7507c7f9fbd62a97ec13c571e737e5ac *man/nordklimdata1-package.Rd
